@@ -10,6 +10,8 @@ namespace MCD_DictionaryMetotOrnek
     {
         static void Main(string[] args)
         {
+            //ContainsKey : Koleksiyon içindeki Key'lerde aranan değer varsa TRUE yoksa FALSE döndürür
+            //ContainsValue
         }
     }
 }
